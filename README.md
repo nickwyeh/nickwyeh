@@ -20,7 +20,7 @@ The repostitories listed here are primarily devoted to computer-based experiment
 * Nd2 
 * NDG `ndg_emto` repository contains for collaboration project with University of Notre Dame and Georgia State.
 <p align="center">
-  <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/work_flow_ndg_figure_v2.png" width="400"> <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/ndg_figure.png" width="400">
+  <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/work_flow_ndg_figurev2.png" width="400"> <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/ndg_figure.png" width="400">
 </p>
 
 
