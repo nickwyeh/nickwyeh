@@ -8,10 +8,9 @@ The repostitories listed here are primarily devoted to computer-based experiment
 <p align="center">
   <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/work_flow_ndg_figurev2.png" width="400"> <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/ndg_figure.png" width="400">
 </p>
-* The `ND2` repository contains materials for 4 behavioral experiments investigating the relationship between anticipatory cues and memory accuracy.
-<p align="center">
-  <img src="https://github.com/nickwyeh/ND2/blob/main/figures/nd2.png" width="400"> <img src="https://github.com/nickwyeh/ND2/blob/main/figures/familiarity_plot_white.png" width="400">
-</p>
+
+* The `ND2` repository contains materials for 4 behavioral experiments investigating the relationship between anticipatory cues and memory accuracy. <p align="center">
+  <img src="https://github.com/nickwyeh/ND2/blob/main/figures/nd2.png" width="400"> <img src="https://github.com/nickwyeh/ND2/blob/main/figures/familiarity_plot_white.png" width="400"> </p>
 
 ##### Peer-reviewed:
 *  The `nd_meta_review` repository contains materials for the article: [Yeh, N., & Rose, N. S. (2019)](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00993/full). How can transcranial magnetic stimulation be used to modulate episodic memory?: a systematic review and meta-analysis. Frontiers in Psychology, 10, 993.
@@ -27,8 +26,6 @@ The repostitories listed here are primarily devoted to computer-based experiment
 </p>
 
 #### Contact:
-
-
 <!--
 **nickwyeh/nickwyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
