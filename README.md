@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a PhD candidate in cognitive psychology at the University of Notre dame. 
-The repostitories listed here are primarily devoted to computer-based experimental tasks and data pipelines (organization, quality control, visualization, analysis) for projects previously published or in preparation. 
+The repostitories listed here are primarily devoted to computer-based experimental tasks and data pipelines (organization, quality control, visualization, analysis) for peer-reviewed and in-preparation projects. 
 #### Publications:
 
 ##### In-preparation:
