@@ -17,7 +17,10 @@ The repostitories listed here are primarily devoted to computer-based experiment
  The role of reappraisal success in emotional and memory outcomes. Emotion, 20(6), 939.
 
 ##### In-preparation:
-* Nd2 
+* The `ND2` repository contains materials for 4 experiments.
+<p align="center">
+  <img src="https://github.com/nickwyeh/ND2/blob/main/figures/nd2.png" width="400"> <img src="https://github.com/nickwyeh/ND2/blob/main/figures/familiarity_plot_white.png" width="400">
+</p>
 * NDG `ndg_emto` repository contains for collaboration project with University of Notre Dame and Georgia State.
 <p align="center">
   <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/work_flow_ndg_figurev2.png" width="400"> <img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/ndg_figure.png" width="400">
