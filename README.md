@@ -22,7 +22,7 @@ The repostitories listed here are primarily devoted to computer-based experiment
 </table>
 
 ##### Peer-reviewed:
-*  The `nd_meta_review` repository contains materials for the article: [Yeh, N., & Rose, N. S. (2019)](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00993/full). How can transcranial magnetic stimulation be used to modulate episodic memory?: a systematic review and meta-analysis. Frontiers in Psychology, 10, 993.
+*  The `nd_meta_review` repository contains materials for the article: [Yeh, N., & Rose, N. S. (2019)](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00993/full). How can transcranial magnetic stimulation be used to modulate episodic memory? a systematic review and meta-analysis. Frontiers in Psychology, 10, 993.
 <p align="center">
   <img src="https://github.com/nickwyeh/nd_meta_review/blob/main/figures/threelevelmeta.png" height = "250" width="350">  <img src="https://github.com/nickwyeh/nd_meta_review/blob/main/figures/work_flow.png" height = "250" width="350"> 
 </p>
