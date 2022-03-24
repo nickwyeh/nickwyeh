@@ -38,7 +38,7 @@ The repostitories listed here are primarily devoted to computer-based experiment
 
 * The `nd_TMS_EEG` repository contains materials for the article: [Yeh, N., Payne, J. D., Kim, S. Y., Kensinger, E. A., Koen, J. D., & Rose, N. S. (2021)](https://www.jneurosci.org/content/41/29/6273). Medial prefrontal cortex has a causal role in selectively enhanced consolidation of emotional memories after a 24-hour delay: A TBS study. Journal of Neuroscience, 41(29), 6273-6280.
 <p align="center">
-  <img src="https://github.com/nickwyeh/nd_tms_eeg/blob/main/figures/tms_eeg_figure.png"  width="500"> <img src="https://github.com/nickwyeh/nd_tms_eeg/blob/main/figures/sfn_poster_results.png" width="800"> 
+  <img src="https://github.com/nickwyeh/nd_tms_eeg/blob/main/figures/tms_eeg_figure.png"  width="500"> 
 </p>
 
 #### Contact:
