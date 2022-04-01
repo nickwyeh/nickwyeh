@@ -32,7 +32,7 @@ The repostitories listed here are primarily devoted to computer-based experiment
  <table align = "center">
   <tr>
     <td valign="left"><img src="https://github.com/nickwyeh/sf_success/blob/main/figures/work_flow_success.png" width="450"/></td>
-    <td valign="right"><img src="" width="450"/></td>
+
   </tr>
 </table>
 
