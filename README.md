@@ -16,7 +16,7 @@ The repostitories listed here are primarily devoted to computer-based experiment
 <table align = "center">
   <tr>
     <td valign="left"><img src="https://github.com/nickwyeh/ND2/blob/main/figures/work_flow_nd2.png" width="450"/></td>
-    <td valign="right"><img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/work_flow_ndg_figurev2.png" width="450"/></td>
+    <td valign="right"><img src="/ND2/blob/main/figures/familiarity_plot_white.png" width="450"/></td>
   </tr>
 </table>
 
