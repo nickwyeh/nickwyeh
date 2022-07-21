@@ -13,7 +13,6 @@ The repostitories listed here are primarily devoted to computer-based experiment
 </table>
 
 * The `ND2` repository contains materials for 4 behavioral experiments investigating the relationship between anticipatory cues and memory accuracy.
-
 <table align = "center">
   <tr>
     <td valign="left"><img src="https://github.com/nickwyeh/ND2/blob/main/figures/work_flow_nd2.png" width="450"/></td>
