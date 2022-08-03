@@ -4,7 +4,7 @@ The repostitories listed here are primarily devoted to computer-based experiment
 #### Publications:
 
 ##### In-preparation:
-* NDG `ndg_emto` repository contains materials for a collaboration project investigating the role of emotion regulation success on emotional memory trade-offs.
+* The `ndg_emto` repository contains materials for a collaboration project investigating the role of emotion regulation success on emotional memory trade-offs.
 <table align = "center">
   <tr>
     <td valign="left"><img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/work_flow_ndg_figurev2.png" width="450"/></td>
