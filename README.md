@@ -8,7 +8,7 @@ The repostitories listed here are primarily devoted to computer-based experiment
 <table align = "center">
   <tr>
     <td valign="left"><img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/work_flow_ndg_figurev2.png" width="450"/></td>
-    <td valign="right"><img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/ndg_figure.png" width="450"/></td>
+    <td valign="right"><img src="https://github.com/nickwyeh/ndg_emto/blob/main/figures/figure6.png" width="450"/></td>
   </tr>
 </table>
 
